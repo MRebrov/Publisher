@@ -1,1 +1,1 @@
-Test services Publisher and Subscriber
+Test service Publisher
